@@ -34,5 +34,8 @@ Se debe relacionar la clase con las objetos. **Considerar: los datos deben ser p
 
 ## Problema 4
 
-Para un sistema posterior, es necesario abstraer las características de dispositivos electrónicos como los son los Equipo Celulares. Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo, dirección mac, información IMEI. Se necesita representar mediante un diagrama de clase y objetos (3). No es necesario agregar los comportamientos en los objetos. Se debe relacionar la clase con las objetos. **Considerar: los datos deben ser protegidos y los comportamientos públicos**
+Para un sistema posterior, es necesario abstraer las características de dispositivos electrónicos como los son los Equipo Celulares. 
+Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo, dirección mac, información IMEI. 
+Se necesita representar mediante un diagrama de clase y objetos (3). No es necesario agregar los comportamientos en los objetos. 
+Se debe relacionar la clase con las objetos. **Considerar: los datos deben ser protegidos y los comportamientos públicos**
  
